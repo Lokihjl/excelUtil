@@ -1,5 +1,0 @@
-eclipse.preferences.version=1
-extraProperties=sonar.jdbc.username\=hjl\r\nsonar.jdbc.driver\=org.postgresql.Driver\r\nsonar.host.url\=http\://192.168.1.13\:9000/\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.url\=jdbc\:postgresql\://192.168.1.14\:5432/sonar
-projectKey=com.neunn.excelUtil\:excelUtil
-serverUrl=http\://192.168.250.3\:9000
-version=2
